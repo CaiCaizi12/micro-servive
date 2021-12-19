@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="min-category" />
+        <module name="min-user" />
+        <module name="min-nacos" />
+        <module name="min-mysql" />
+        <module name="min-tools" />
+        <module name="min-gateway" />
+        <module name="min-article" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
